@@ -19,6 +19,7 @@
 #### POST
 * https://www.jesusninoc.com/04/30/enviar-datos-a-un-formulario-de-google-docs-desde-powershell-deducir-los-parametros-que-se-envian-por-post/
 ### CRUD
+"Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software.
 
 ## Invoke-WebRequest
 ### Propiedades
