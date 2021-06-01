@@ -89,6 +89,7 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 
 ## Ejercicios:
 - Crear un servicio REST en IIS
+  - https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/ 
 
 # 4. API
 * https://www.jesusninoc.com/webclient/
