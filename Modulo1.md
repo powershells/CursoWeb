@@ -39,7 +39,7 @@
 ### Problemas SSL
 * https://www.jesusninoc.com/02/19/invoke-webrequest-anulada-la-solicitud-no-se-puede-crear-un-canal-seguro-ssl-tls/
 
-## Ejercicios de PowerShell:
+## Ejercicios de PowerShell
 - Peticiones con Invoke-WebRequest
 
 # 2. Servicios Web
@@ -75,12 +75,12 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 ## New-WebServiceProxy
 * https://www.jesusninoc.com/05/31/usar-soap-desde-powershell-wsdl/
 
-## Ejercicios:
+## Ejercicios
 - Comprender cómo funciona un servicio web
 - Crear un servicio web
 - Crear un servicio web en .NET
 
-## Ejercicios de PowerShell:
+## Ejercicios de PowerShell
 - Leer datos de un sercicio web SOAP
 
 # 3. Web REST
@@ -90,11 +90,11 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 * https://www.jesusninoc.com/03/08/ver-categorias-de-wordpress-json-api-desde-powershell/
 
-## Ejercicios:
+## Ejercicios
 - Crear un servicio REST en IIS
   - https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/ 
 
-## Ejercicios de PowerShell:
+## Ejercicios de PowerShell
 - Llamar a REST en WordPress
 
 # 4. API
@@ -104,11 +104,9 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 * https://www.jesusninoc.com/01/25/extraer-informacion-de-sitios-web/
 * https://www.jesusninoc.com/start-bitstransfer/
 * https://www.jesusninoc.com/02/09/tratamiento-de-errores-en-powershell/
-
-## Reconocimiento
 * https://www.jesusninoc.com/01/14/conocer-la-edad-de-una-persona-mediante-el-reconocimiento-optico-de-caracteres-y-el-analisis-de-imagenes-computer-vision-api-de-microsoft-azure/
 * https://docs.microsoft.com/es-es/azure/cognitive-services/authentication?tabs=powershell
 
-## Ejercicios de PowerShell:
+## Ejercicios de PowerShell
 - Llamada al API de algo
 - Reconocimiento
