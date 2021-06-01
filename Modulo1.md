@@ -84,6 +84,8 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 - Leer datos de un sercicio web SOAP
 
 # 3. Web REST
+
+## Introducción
 * https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 * https://www.jesusninoc.com/03/08/ver-categorias-de-wordpress-json-api-desde-powershell/
@@ -92,7 +94,11 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 - Crear un servicio REST en IIS
   - https://www.c-sharpcorner.com/article/hosting-asp-net-web-api-rest-service-on-iis-10/ 
 
+## Ejercicios de PowerShell:
+- Llamar a REST en WordPress
+
 # 4. API
+## Introducción
 * https://www.jesusninoc.com/webclient/
 * https://www.jesusninoc.com/02/26/utilizar-sesiones-de-las-aplicaciones-web-en-powershell/
 * https://www.jesusninoc.com/01/25/extraer-informacion-de-sitios-web/
@@ -102,3 +108,7 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 ## Reconocimiento
 * https://www.jesusninoc.com/01/14/conocer-la-edad-de-una-persona-mediante-el-reconocimiento-optico-de-caracteres-y-el-analisis-de-imagenes-computer-vision-api-de-microsoft-azure/
 * https://docs.microsoft.com/es-es/azure/cognitive-services/authentication?tabs=powershell
+
+## Ejercicios de PowerShell:
+- Llamada al API de algo
+- Reconocimiento
