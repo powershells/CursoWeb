@@ -122,13 +122,17 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 * https://www.jesusninoc.com/02/27/enviar-por-mail-el-precio-la-fecha-la-hora-y-el-volumen-de-varias-acciones-del-ibex-35-en-un-momento-concreto/
 
 ## WSDL
+WSDL, o Web Service Description Language, es un lenguaje de definición basado en XML. Se utiliza para describir la funcionalidad de un servicio web basado en SOAP. Los archivos WSDL son fundamentales para probar los servicios basados en SOAP. SoapUI usa archivos WSDL para generar solicitudes de prueba, afirmaciones y servicios simulados.
 
 ## SOAP
+SOAP es un protocolo independiente de la plataforma e independiente del lenguaje para crear y obtener acceso a servicios Web. SOAP es un protocolo estándar que define cómo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML.
 
 ## RDF
+Modelo de datos para metadatos.
 * https://www.jesusninoc.com/12/20/read-meta-information-exiftool/
 
 ## RSS
+RSS son las siglas de Really Simple Syndication, un formato XML para distribuir contenido en la web.
 * https://www.jesusninoc.com/01/15/ejercicios-de-powershell-leer-un-rss-feed-fuente-rss-de-un-wordpress-y-mostrar-los-titulos-desde-powershell/
 
 ## New-WebServiceProxy
@@ -167,6 +171,9 @@ Cuando Invoke-WebRequest encuentra un mensaje HTTP no exitoso (404, 500, etc.), 
 * https://www.jesusninoc.com/03/01/crear-un-servidor-web-con-powershell/
 * https://www.jesusninoc.com/02/27/autenticarse-en-un-router-de-fibra-optica-mitrastar-de-movistar-mediante-el-usuario-y-la-contrasena-con-powershell/
 * https://www.jesusninoc.com/03/08/ver-categorias-de-wordpress-json-api-desde-powershell/
+
+## REST o SOAP
+REST permite muchos formatos de datos diferentes, mientras que SOAP solo permite XML. REST permite un mejor soporte para los clientes del navegador debido a su soporte para JSON. REST tiene mejor rendimiento y escalabilidad.
 
 ## Ejercicios
 - Crear un servicio REST en IIS
